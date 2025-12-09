@@ -1,0 +1,13 @@
+# LangChain
+langchain>=0.1.0
+langchain-openai>=0.0.5
+
+# Strands
+strands>=0.1.0
+
+# AutoGen
+pyautogen>=0.2.0
+
+# Common dependencies
+python-dotenv>=1.0.0
+openai>=1.0.0
